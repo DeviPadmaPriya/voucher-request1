@@ -1,0 +1,32 @@
+/* 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+.table-cell {
+  padding: px;
+}
+
+.exam-name {
+  width: 20%;
+}
+
+.cloud-platform {
+  width: 15%;
+}
+
+.plannedExamDate{
+  width: 30%;
+}
+.table-container {
+  margin-top: -200px; 
+ margin-left: -100px;
+}
+.table-container .table-head {
+  background-color: #2196f3; 
+  color: #ffffff; 
+} */
